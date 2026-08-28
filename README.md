@@ -21,5 +21,4 @@ It captures live traffic and displays:
 - Npcap (windows OS)
 
 ## Example Output
-<img width="1920" height="1080" alt="image" src=""C:\Users\USER\Pictures\Screenshots\Screenshot (3).png" />
 
