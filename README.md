@@ -22,3 +22,5 @@ It captures live traffic and displays:
 
 ## Example Output
 
+![image alt](https://github.com/joyner475/CodeAlpha_BasicNetworkSniffer/blob/29bc92f900bd587ba402911212b731d9ef19ca81/Screenshot%20(3).png)
+
