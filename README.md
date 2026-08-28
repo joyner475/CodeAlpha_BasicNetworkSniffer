@@ -1,13 +1,23 @@
 # CodeAlpha_BasicNetworkSniffer
-Network Sniffer
-# Project Name
-One-line what it does.
+# Network siniffer
+a lightweight network packet sniffer coded with python and scapy librar.
 
 ## What it does
-2-3 lines explaining problem it solves.
+It captures live traffic and displays:
+1. source IP
+2. Destination IP
+3. Protocols (TCP, UDP)
 
 ## Features
-- Feature 1
-- Feature 2
+1. live packet captures
+2. display of both source and destination IPs
+3. Protocol identity. (UDP, TCP)
+4. All OS compatible
+5. port display
 
-## Tech
+## Tech Stack
+- Python 3
+- Scapy
+- Npcap (windows OS)
+
+## 
