@@ -1,5 +1,5 @@
 # CodeAlpha_BasicNetworkSniffer
-# Network siniffer
+# Network Sniffer
 a lightweight network packet sniffer coded with python and scapy librar.
 
 ## What it does
